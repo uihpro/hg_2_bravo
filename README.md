@@ -1,1 +1,8 @@
-# hg_2_bravo
+# Bravo - Edgar Contreras
+###
+
+| Integrantes | Ubicacion |
+|-------------|-----------|
+| Rene | Venezuela |
+| Edgar | Venezuela |
+| Celestino | Venezuela |
